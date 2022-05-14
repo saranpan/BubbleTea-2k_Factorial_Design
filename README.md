@@ -1,5 +1,3 @@
-2^k Full factorial design is well known as one of the popular design analysis which used to analyze k factors which each factors are fixed to have just 2 levels, In this experimental design have 3 factors: 
-
 # Bubble Tea 2^3 Full Factorial Design
 ## Experimental design with R
 
