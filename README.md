@@ -6,6 +6,14 @@
 
 2^k Full factorial design is well known as one of the popular design analysis which used to analyze k factors which each factors are fixed to have just 2 levels, In this experimental design have 3 factors: 
 
+# Bubble Tea 2^3 Full Factorial Design
+## Experimental design with R
+
+[![AllMenu](https://github.com/wallik2/BubbleTea-2k_Factorial_Design/blob/main/Menu/%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%99%E0%B8%B9.jpg?raw=true)]()
+
+
+2^k Full factorial design is well known as one of the popular design analysis which used to analyze k factors which each factors are fixed to have just 2 levels, In this experimental design have 3 factors: 
+
 - 🍵 Milk tea type (plain/green tea) 🍵
 - 🍦 Whip Cream (yes/no) 🍦
 - 🍩 Brown Sugar (yes/no) 🍩
@@ -104,7 +112,7 @@ Comment: There is only 0.0000951 % chance that the residual is actually normally
 It turns out that the effect model violates the second assumption. We conclude that the residual is not normally distributed with 95% confidence level.
 
 
-However, everything is possible, in case that 0.0000951 % that the residual is actually normally distributed is true, then it leads us to construct the following effects model.
+However, everything is possible, in case that 0.0000951 % that the residual is actually normally distributed is true but got rejected, then it leads us to construct the following effects model.
 
 Hence, we decided to drop all of the interaction effects due to the p-value being less than the alpha level.
 
@@ -128,6 +136,37 @@ Anyway, We do not recommend to use our effects model to apply to the real world 
 
 So, In future, we will develop the statistical model which is used to handle our data better.
 
+# Acknowledgement
+
+We would like to acknowledge these people for taking google form and consent to have their name publicly visible as a part of contribution.
+
+1. ธรรมธัช โคตมี
+
+2. ณัฐกุล คงสระ
+
+3. จิตวัต พันธ์ไพศาล
+
+4. พิชชญามญช์ ส.สกุล
+
+5. สิโรฒม์ ติสสพงษ์กุล
+
+6. เจตณัฐ รอดประเสริฐ
+
+7. ณัชชา เมืองสมบูรณ์
+
+8. พิชชาภา รุ่งหลำ
+
+
+
+# Limitation
+
+1. The taste of the milk tea menu does not affect the rating score, only the visualization of the menu does.
+
+2. The people who took our google form are mostly friends of Saran and Pornnapa, so this dataset may or may not represent Thai people well enough.
+
+3. Most of the people who took our form are 19-22 and Thai, so the signature menu may not apply well to the other age range and other countries.
+4. The model we created relies on the assumption which state that 0.0000951 % that the residual is actually normally distributed is true but got rejected, then it leads us to construct the following effects model. 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
    [Dataset]: <https://rpubs.com/wallik/887563>
+
