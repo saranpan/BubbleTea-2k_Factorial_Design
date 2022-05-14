@@ -1,9 +1,3 @@
-# Bubble Tea 2^3 Full Factorial Design
-## Experimental design with R
-
-[![AllMenu](https://github.com/wallik2/BubbleTea-2k_Factorial_Design/blob/main/Menu/%E0%B8%A3%E0%B8%A7%E0%B8%A1%E0%B9%80%E0%B8%A1%E0%B8%99%E0%B8%B9.jpg?raw=true)]()
-
-
 2^k Full factorial design is well known as one of the popular design analysis which used to analyze k factors which each factors are fixed to have just 2 levels, In this experimental design have 3 factors: 
 
 # Bubble Tea 2^3 Full Factorial Design
